@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Profile"/>
+        <item
+            android:id="@+id/Patient"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Patient" />
+
+        <item android:id="@+id/Doctor"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Doctor"/>
+
+        <item android:id="@+id/logout"
+            android:icon="@drawable/ic_baseline_power_settings_new_24"
+            android:title="Logout"/>
+
+        <item android:id="@+id/Aboutthisapp"
+            android:icon="@drawable/ic_baseline_info_24"
+            android:title="About This App"/>
+
+
+
+
+    </group>
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504938423791",
+    "firebase_url": "https://hospital-eec28-default-rtdb.firebaseio.com",
+    "project_id": "hospital-eec28",
+    "storage_bucket": "hospital-eec28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504938423791:android:8f605024a96ce4bd42821a",
+        "android_client_info": {
+          "package_name": "com.vrushali.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504938423791-ptbqv0frhln2n3h5raq2i376r6fqmm5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vrushali.hospital",
+            "certificate_hash": "498e77f5a233aafc2349f637544049970aabcb71"
+          }
+        },
+        {
+          "client_id": "504938423791-fulqkd1rhrag782q9l86at20umdbl8op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5r8jC4wdO7q98j19ESaqMTBnEIP4s2W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504938423791-fulqkd1rhrag782q9l86at20umdbl8op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

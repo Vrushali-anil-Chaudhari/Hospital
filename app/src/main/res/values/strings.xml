@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Hospital</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_closed">Close navigation drawer</string>
+    <string name="password">Password</string>
+    <string name="my_hospital">My Hospital</string>
+    <string name="new_user">New User ? Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="username">Username/Mail</string>
+    <string name="title_activity_admin_login">adminLoginActivity</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="go_back">Go Back</string>
+    <string name="doctor_s_logo">Doctor\'s Logo</string>
+
+    <string-array name="timeframes">
+
+        <item>Timings</item>
+        <item>7-10AM</item>
+        <item>2-4PM</item>
+        <item>5-7PM</item>
+    </string-array>
+
+    <string-array name="departments">
+        <item> Select Department</item>
+        <item> Emergency</item>
+        <item> OPD</item>
+
+    </string-array>
+
+    <string-array name="specialization">
+        <item>Select Specialization</item>
+        <item>Surgeon</item>
+        <item>Heart specialist</item>
+        <item>Pediatric</item>
+    </string-array>
+</resources>

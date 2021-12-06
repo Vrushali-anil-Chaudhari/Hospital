@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+    <item android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_power_settings_new_24"
+        android:title="Logout"/>
+
+    <item
+        android:id="@+id/About_us"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About Us"/>
+    <item
+        android:id="@+id/Notification"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Notifications"/>
+
+    <item
+        android:title="Doctor's Specialization">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/neurologists"
+
+                    android:title="neurologists"/>
+                <item
+                    android:id="@+id/dermatologists"
+
+                    android:title="dermatologists"/>
+                <item
+                    android:id="@+id/cardiologists"
+                    android:title="cardiologists"/>
+                <item
+                    android:id="@+id/ophthalmologists"
+                    android:title="ophthalmologist"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>
